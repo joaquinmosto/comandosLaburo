@@ -1,0 +1,7 @@
+buscar que es un orm en symfony
+compose require template
+twig(sirve para poder repetir una porcion de codigo, por ejemplo un nav con x dependencias y x css ) instalar extencion en vsc para ver el archivo teplatebase
+para agregar css 
+composer require template
+
+composer install = npm install (a la hora de descargar dependencias despues de clonar de git)
